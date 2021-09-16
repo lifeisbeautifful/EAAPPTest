@@ -9,7 +9,7 @@ namespace EAAPP
 {
     public class Drivers
     {
-        int c = 3;
+        int c = 100;
         private IWebDriver Driver { get; set; }
 
         public enum Browsers
