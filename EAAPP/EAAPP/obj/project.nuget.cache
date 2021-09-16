@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "86TF7Gqs+uuKufxyvBM3z3RlvIFSKTHx9UZ/Eir8LP5y60cU5coDjN0dKCkr0ik0H0vjJ0hQdMIFk9EuofvaJQ==",
+  "dgSpecHash": "ehWBZS4vmwylB6B6N/Y7LGD3eN5RgesiyJrOkdMVSSwTMJX/pscch1ZWoPIrjQp/VSf78LsKzUc+8iEhfvfPNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ognyp\\source\\repos\\EAAPP\\EAAPP\\EAAPP.csproj",
+  "projectFilePath": "C:\\Users\\ognyp\\Desktop\\Check\\EAAPPTest\\EAAPP\\EAAPP\\EAAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ognyp\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\ognyp\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
