@@ -10,6 +10,7 @@ namespace EAAPP
     public class Drivers
     {
         //changed
+        string local="Github";
         private IWebDriver Driver { get; set; }
 
         public enum Browsers
