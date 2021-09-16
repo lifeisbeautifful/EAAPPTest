@@ -10,6 +10,7 @@ namespace EAAPP
     public class Drivers
     {
         int c = 100;
+        string local = "Local";
         private IWebDriver Driver { get; set; }
 
         public enum Browsers
